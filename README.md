@@ -59,4 +59,4 @@ Annotator B ─────┘
 
 🚧 **MVP / Work in Progress**
 
-Current development focuses on building the iterative feedback loop and evaluating whether disagreement-driven guideline refinement improves annotation agreement and final annotation quality.
+An agentic-annotation pipeline has been done! Current work focuses on building UI with Streamlit.
